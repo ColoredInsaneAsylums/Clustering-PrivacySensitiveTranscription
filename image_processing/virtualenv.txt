@@ -7,7 +7,7 @@ defusedxml==0.4.1
 gyp==0.1
 hamster-indicator==0.0.0
 html5lib==0.999
-lxml==3.5.0
+lxml==4.9.1
 Magic-file-extensions==0.2
 numpy==1.11.0
 obMenu==1.0
